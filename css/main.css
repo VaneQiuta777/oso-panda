@@ -1,0 +1,40 @@
+img {
+    width: 100%
+}
+.main {
+    background-color: #F48C68;
+    color: #ffffff;
+    font-family: "raleway";
+    padding: 50px 30px;
+    text-align: right;
+}
+.panda-principal {
+    filter: grayscale(100%);
+    background-image: url("../assets/images/osos/uno.jpg");
+    height: 400px;
+    background-size: cover;
+    background-position: center;
+}
+.pinky-line {
+    height: 20px;
+    background-color: #F48C68;
+}
+.text-green {
+    padding: 100px 0;
+    background-color: #abe188;
+}
+.text-green .col-xs-4 {
+    background: #F48C68;
+    color: white;
+    padding: 20px;
+}
+.panda-2 {
+    background-image: url("../assets/images/osos/dos.jpg");
+    height: 400px;
+    background-size: cover;
+    background-position: center;
+}
+.panda-gallery {
+    border: 10px solid #ffffff;
+    
+}
